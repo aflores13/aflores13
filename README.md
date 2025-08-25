@@ -1,4 +1,5 @@
 ## Hi there 👋
+- I'm currently working on my first assignment for Object-Oriented Programming
 
 <!--
 **aflores13/aflores13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
